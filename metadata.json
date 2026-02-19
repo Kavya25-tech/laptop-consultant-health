@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI Laptop Doctor & Safety Guardian",
+  "description": "A comprehensive AI-powered system for monitoring laptop health, diagnosing performance issues, and ensuring cyber-safety using Gemini's advanced reasoning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
